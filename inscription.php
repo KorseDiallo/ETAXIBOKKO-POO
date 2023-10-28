@@ -1,16 +1,7 @@
 <?php
 session_start();
 
-// if (isset($_POST["valider"])) {
-//     if (isset($_POST["email"]) && isset($_POST["mot_de_passe"])) {
-//         $_SESSION["email"] = htmlspecialchars($_POST["email"]);
-//         $_SESSION["mot_de_passe"] = md5($_POST["mot_de_passe"]);
-//         // Redirigez vers la page avec le deuxième formulaire d'inscription.
-//         header("Location: inscriptionSuite.php");
-//     } else {
-//         echo "Veuillez remplir tous les champs du formulaire d'inscription.";
-//     }
-// }
+
 ?>
 
 <!DOCTYPE html>
